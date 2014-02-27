@@ -1,0 +1,44 @@
+{
+  "name": "terry",
+  "version": "0.0.0-00",
+  "description": "terry",
+  "homepage": "",
+  "author": {
+    "name": "terry pothecary",
+    "email": "terry@pothecary.com",
+    "url": "http://www.cellanda.com/people/terry"
+  },
+  "contributors": [
+  ],
+  "keywords": [
+    "terry"
+  ],
+  "main": "main.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bin": "bin/terry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cellanda/terry-js"
+  },
+  "bugs": {
+    "url": "https://github.com/cellanda/terry-js/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cellanda/terry-js/LICENSE"
+    }
+  ],
+  "readme": "terry",
+  "readmeFilename": "README.md",
+  "_id": "terry@0.0.0-00",
+  "_from": "terry@"
+}
